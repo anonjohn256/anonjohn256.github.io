@@ -1,3 +1,3 @@
-### Markdown
+### Varying latent state
 
-![](test.mp4)
+![Alt Text](latent1.gif)
