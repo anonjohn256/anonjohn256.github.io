@@ -1,10 +1,27 @@
 # Multiagent rollouts
 
+## Intersection scenarios
+
+![Alt Text](rollout1.gif)
+![Alt Text](rollout8.gif)
+![Alt Text](rollout9.gif)
+
+## Merging scenarios
+
+![Alt Text](rollout2.gif)
+
+## Roundabout scenarios
+
+![Alt Text](rollout3.gif)
+![Alt Text](rollout4.gif)
+![Alt Text](rollout5.gif)
+![Alt Text](rollout6.gif)
+![Alt Text](rollout7.gif)
 
 
 # Varying latent state
 
-## Intersection scenario
+## Intersection scenarios
 
 ### Track 1
 
